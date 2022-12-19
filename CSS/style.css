@@ -19,7 +19,7 @@
   main{
     width: 90%;
     height: 10%;
-    overflow-x: scroll;
+    overflow-y: scroll;
   }
 }
 
