@@ -7,8 +7,11 @@
   }
   
   h1{
-    width: 100%;
-    font-size: 80px;
+    width: 80%;
+  }
+
+  .circle{
+    width: 130px;
   }
 }
 
