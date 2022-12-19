@@ -3,6 +3,10 @@
 
 @media (max-width: 500px) {
   header {
+    width: fit-content;
+  }
+  
+  h1{
     width: 100%;
     font-size: 80px;
   }
