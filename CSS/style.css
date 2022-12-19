@@ -4,6 +4,7 @@
 @media (max-width: 500px) {
   header {
     width: fit-content;
+    height: 10%;
   }
   
   h1{
