@@ -8,7 +8,7 @@
   }
   
   h1{
-    width: 90%;
+    width: 75%;
   }
 
   .circle{
@@ -16,6 +16,7 @@
   }
 
   main{
+    width: 75%;
     height: 11%;
   }
 }
