@@ -83,8 +83,15 @@ body {
     padding: 0;
   }
 
-  section .callToAction{
+  section .callToAction {
     padding: 20px;
+    background-color: #800020;
+  }
+
+  section .images {
+    margin: 1%;
+    background-color: #800020;
+
   }
   
   footer {
