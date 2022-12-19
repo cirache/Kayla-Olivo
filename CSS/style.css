@@ -3,18 +3,9 @@
 
 @media (max-width: 500px) {
   header {
-    width: 90%;
-    height: 10%;
+    width: 30%;
+    font-size: 80px;
   }
-  
-  h1{
-    width: 60%;
-  }
-
-  .circle{
-    width: 130px;
-  }
-
 }
 
 body {
