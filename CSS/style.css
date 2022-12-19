@@ -4,15 +4,19 @@
 @media (max-width: 500px) {
   header {
     width: fit-content;
-    height: 15%;
+    height: 11%;
   }
   
   h1{
-    width: 80%;
+    width: 90%;
   }
 
   .circle{
     width: 130px;
+  }
+
+  main{
+    height: 11%;
   }
 }
 
