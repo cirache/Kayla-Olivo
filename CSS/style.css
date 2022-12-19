@@ -3,12 +3,13 @@
 
 @media (max-width: 500px) {
   header {
-    width: fit-content;
+    width: 90%;
     height: 10%;
+    overflow-x: hidden;
   }
   
   h1{
-    width: fit-content;
+    width: 60%;
   }
 
   .circle{
@@ -16,8 +17,9 @@
   }
 
   main{
-    width: fit-content;
+    width: 90%;
     height: 10%;
+    overflow-x: hidden;
   }
 }
 
