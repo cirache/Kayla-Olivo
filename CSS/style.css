@@ -3,7 +3,7 @@
 
 @media (max-width: 500px) {
   header {
-    width: 30%;
+    width: 100%;
     font-size: 80px;
   }
 }
